@@ -1,7 +1,8 @@
 # Image Compressor
 
-![Image Compressor](path_to_image1.png)  
-![Image Compressor](path_to_image2.png)
+![image](https://github.com/user-attachments/assets/ac2c1d55-d937-49ed-b24b-2389934c46d6)
+![image](https://github.com/user-attachments/assets/cfa7a762-f958-4053-88f5-a2d1f7a30c85)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
