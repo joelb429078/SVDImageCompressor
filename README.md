@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/ac2c1d55-d937-49ed-b24b-2389934c46d6)
 ![image](https://github.com/user-attachments/assets/cfa7a762-f958-4053-88f5-a2d1f7a30c85)
 
-## Introduction
+## Overview
 The **Image Compressor** application is a simple yet powerful tool designed to compress images using Singular Value Decomposition (SVD). It allows users to upload an image, choose a compression ratio, and download the compressed version. The compression process significantly reduces the image size while maintaining acceptable visual quality, making it ideal for example web usage or even storage optimisation.
 
 ## Features
